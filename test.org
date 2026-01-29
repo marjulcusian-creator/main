@@ -1,3 +1,5 @@
 This is a test for magit
 
 I have added some more text to practice
+
+I forget to stage last time
