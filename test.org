@@ -1,3 +1,5 @@
+Adding some more stuff
+
 This is a test for magit
 
 I have added some more text to practice
